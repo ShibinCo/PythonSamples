@@ -1,12 +1,11 @@
 print("Enter a number")
-
 n = int(raw_input())
 
 if n % 2 == 1 :
-    print("Wierd")
+    print("Weird")
 elif n % 2 ==0 and 2 <= n <=5:
-    print("Not Wierd")
+    print("Not Weird")
 elif n % 2 ==0 and 6 <= n <= 20:
-    print("Wierd")
+    print("Weird")
 else:
-    print("Not Wierd")  
+    print("Not Weird")  
