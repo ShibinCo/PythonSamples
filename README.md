@@ -1,2 +1,2 @@
 # PythonSamples
-Python Sample Programs
+Python Sample Programs from HackerRank Challenge
